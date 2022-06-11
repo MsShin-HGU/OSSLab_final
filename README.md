@@ -34,6 +34,16 @@ cd finalproject
 contact my email here
 21800401@handong.ac.kr
 ```
+
+# Clearly indicate what your contribution to your project is.
+```
+1. Absolute evaluation (100%)
+2. relative evaluation (Failed)
+ - Excel files could not be read from other languages such as Java and Python.
+ -- feedback : Read to a text file using Java.
+3. The grades of the semester (100%)
+
+
 #YOUTUBE LINK
 ```
 https://youtu.be/GGAxycEK5-Y

@@ -14,9 +14,13 @@
 ```
 
 # How to get started?
-> cd finalproject
+```
+cd finalproject
 
-> ./a.out
+./a.out
+
+* then execute the program file.
+```
 
 # Where can people get more help, if needed?
 ```
